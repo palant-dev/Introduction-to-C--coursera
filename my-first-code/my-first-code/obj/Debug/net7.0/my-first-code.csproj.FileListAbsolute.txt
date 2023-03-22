@@ -1,0 +1,15 @@
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/obj/Debug/net7.0/my-first-code.csproj.AssemblyReference.cache
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/obj/Debug/net7.0/my-first-code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/obj/Debug/net7.0/my-first-code.AssemblyInfoInputs.cache
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/obj/Debug/net7.0/my-first-code.AssemblyInfo.cs
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/obj/Debug/net7.0/my-first-code.csproj.CoreCompileInputs.cache
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/bin/Debug/net7.0/my-first-code
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/bin/Debug/net7.0/my-first-code.deps.json
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/bin/Debug/net7.0/my-first-code.runtimeconfig.json
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/bin/Debug/net7.0/my-first-code.dll
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/bin/Debug/net7.0/my-first-code.pdb
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/obj/Debug/net7.0/my-first-code.dll
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/obj/Debug/net7.0/refint/my-first-code.dll
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/obj/Debug/net7.0/my-first-code.pdb
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/obj/Debug/net7.0/my-first-code.genruntimeconfig.cache
+/Users/antoniopalomba/Documents/5-FullStackDeveloper/Coding Exercise C#/my-first-code-in-csharp/my-first-code/my-first-code/obj/Debug/net7.0/ref/my-first-code.dll
